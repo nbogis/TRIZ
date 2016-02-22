@@ -1,0 +1,39 @@
+/*h1 {
+	font-size: 5vw;
+}
+h3 {
+	font-size: 4vw;
+}
+h5 {
+    font-size: 3vw;
+}*/
+
+.btn {
+	position: absolute;
+	right: 5.5%;
+}
+#btn-2{
+	horizontal-align: center;
+}
+ol {
+	padding-left: 3%;
+}
+.space {
+	padding-left: 3%;
+}
+
+ /*Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) { 
+	.btn {
+		position: absolute;
+		right: 12.5%;
+	}
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) {
+	.btn {
+		position: absolute;
+		right: 10.5%;
+	}
+}
