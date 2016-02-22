@@ -5,9 +5,6 @@
   "main": "app.js",
   "dependencies": {
   },
-  "devDependencies": {
-    
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
